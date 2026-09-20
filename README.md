@@ -20,6 +20,7 @@ The system provides insights into:
 
 ## Data Engineering Architecture
 
+```text
 Multiple Hospital Data Sources
             ↓
        Data Ingestion
