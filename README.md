@@ -2,6 +2,7 @@
 
 ## 🚀 Live Dashboard
 🔗 **[Open Hospital Patient Care Analytics Dashboard](https://jajula-gnana-deepak18-sep-2026hospital-patient-care-analytics.streamlit.app)**
+
 The application is deployed using Streamlit Community Cloud and provides interactive hospital operational and patient analytics.
 
 An end-to-end **Data Engineering and Analytics project** that transforms raw hospital data from multiple operational sources into a centralized analytical data warehouse and an interactive dashboard.
