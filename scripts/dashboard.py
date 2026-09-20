@@ -334,10 +334,7 @@ st.dataframe(
 
 st.divider()
 
-st.caption(
-    "Hospital Patient Care Analytics | "
-    "SQLite + Python + Streamlit + Plotly"
-)
+st.caption("🏥 Hospital Patient Care Analytics | Jajula Gnana Deepak")
 
 
 conn.close()
