@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# SQLite
+*.db
+
+# Generated reports
+reports/
+
+# Generated processed data
+data/processed/
+data/quarantine/
+
+# OS
+.DS_Store
+Thumbs.db

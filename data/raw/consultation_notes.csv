@@ -1,0 +1,47 @@
+note_id,patient_id,appointment_id,doctor_id,consultation_date,symptoms,assessment,notes,follow_up_required
+NOTE0001,P005,A010,D003,2023-01-13,Patient attended therapy session.,Therapy assessment,Response to therapy reviewed.,Yes
+NOTE0002,P029,A012,D003,2023-05-07,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,No
+NOTE0003,P014,A020,D003,2023-12-05,Patient presented for general consultation.,General assessment,Vital signs reviewed and treatment plan discussed.,No
+NOTE0004,P049,A024,D008,2023-06-21,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,No
+NOTE0005,P016,A029,D010,2023-06-25,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0006,P026,A030,D005,2023-08-29,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,No
+NOTE0007,P026,A031,D006,2023-04-04,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,Yes
+NOTE0008,P010,A040,D009,2023-03-27,Patient attended therapy session.,Therapy assessment,Response to therapy reviewed.,Yes
+NOTE0009,P031,A044,D006,2023-09-20,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,No
+NOTE0010,P032,A047,D007,2023-05-02,Therapy visit completed.,Therapy progress,Treatment progress and continuation plan reviewed.,Yes
+NOTE0011,P004,A051,D006,2023-02-04,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0012,P028,A057,D010,2023-04-15,Emergency consultation completed.,Emergency evaluation,Patient evaluated and monitoring plan established.,Yes
+NOTE0013,P040,A073,D003,2023-12-24,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,No
+NOTE0014,P029,A077,D010,2023-12-14,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0015,P050,A083,D001,2023-11-07,Patient presented with urgent symptoms.,Urgent assessment,Immediate clinical evaluation performed.,No
+NOTE0016,P008,A088,D005,2023-05-02,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,No
+NOTE0017,P029,A089,D010,2023-02-14,Patient presented for general consultation.,General assessment,Vital signs reviewed and treatment plan discussed.,Yes
+NOTE0018,P034,A093,D001,2023-04-09,Patient returned for follow-up.,Treatment follow-up,Previous treatment response reviewed.,No
+NOTE0019,P004,A096,D003,2023-07-07,Patient reported routine symptoms.,Routine clinical review,Clinical assessment completed and care plan discussed.,No
+NOTE0020,P045,A098,D005,2023-03-17,Emergency consultation completed.,Emergency evaluation,Patient evaluated and monitoring plan established.,Yes
+NOTE0021,P011,A099,D007,2023-07-04,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0022,P036,A104,D006,2023-04-18,Patient returned for follow-up.,Treatment follow-up,Previous treatment response reviewed.,No
+NOTE0023,P009,A107,D007,2023-04-17,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,No
+NOTE0024,P018,A114,D001,2023-08-08,Patient attended therapy session.,Therapy assessment,Response to therapy reviewed.,No
+NOTE0025,P037,A121,D001,2023-04-07,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0026,P049,A123,D002,2023-02-28,Patient attended therapy session.,Therapy assessment,Response to therapy reviewed.,Yes
+NOTE0027,P023,A125,D007,2023-02-18,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0028,P041,A128,D002,2023-04-15,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,Yes
+NOTE0029,P048,A133,D001,2023-03-23,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,Yes
+NOTE0030,P013,A136,D009,2023-05-13,Patient returned for follow-up.,Treatment follow-up,Previous treatment response reviewed.,No
+NOTE0031,P041,A141,D002,2023-06-15,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,No
+NOTE0032,P014,A147,D002,2023-11-13,Patient presented with urgent symptoms.,Urgent assessment,Immediate clinical evaluation performed.,Yes
+NOTE0033,P019,A149,D002,2023-07-26,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,No
+NOTE0034,P047,A150,D003,2023-08-16,Therapy visit completed.,Therapy progress,Treatment progress and continuation plan reviewed.,No
+NOTE0035,P005,A152,D004,2023-04-14,Therapy visit completed.,Therapy progress,Treatment progress and continuation plan reviewed.,No
+NOTE0036,P035,A153,D009,2023-07-08,Patient reported routine symptoms.,Routine clinical review,Clinical assessment completed and care plan discussed.,No
+NOTE0037,P021,A156,D008,2023-11-22,Patient attended therapy session.,Therapy assessment,Response to therapy reviewed.,No
+NOTE0038,P036,A157,D007,2023-05-12,Patient attended follow-up appointment.,Progress assessment,Symptoms and treatment progress reviewed.,No
+NOTE0039,P023,A158,D010,2023-07-12,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,No
+NOTE0040,P047,A173,D005,2023-06-04,Patient attended routine health check.,Routine check-up,Preventive monitoring and follow-up recommendations discussed.,No
+NOTE0041,P038,A179,D006,2023-03-08,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,Yes
+NOTE0042,P046,A181,D004,2023-09-03,Patient presented with urgent symptoms.,Urgent assessment,Immediate clinical evaluation performed.,No
+NOTE0043,P013,A182,D008,2023-04-12,Patient returned for follow-up.,Treatment follow-up,Previous treatment response reviewed.,No
+NOTE0044,P040,A183,D004,2023-02-03,Patient attended scheduled check-up.,Preventive assessment,Routine examination completed.,No
+NOTE0045,P042,A184,D008,2023-02-26,Therapy visit completed.,Therapy progress,Treatment progress and continuation plan reviewed.,Yes
+NOTE0046,P017,A199,D001,2023-05-01,Patient returned for follow-up.,Treatment follow-up,Previous treatment response reviewed.,Yes
